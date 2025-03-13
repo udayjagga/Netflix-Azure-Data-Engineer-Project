@@ -17,9 +17,9 @@ Created Delta Tables and used SQL in Databricks for efficient querying.
 Enabled schema evolution to handle changes in incoming data seamlessly, making the dataset analytics-ready.
 
 ### 💡𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐔𝐬𝐞𝐝:
-* ✅ Azure Data Lake Storage Gen2 (ADLS Gen2)
-* ✅ Azure Data Factory (Dynamic Pipeline)
-* ✅ Azure Databricks
-* ✅ Azure Access Connector
-* ✅ PySpark
-* ✅ Microsoft Entra ID
+* Azure Data Lake Storage Gen2 (ADLS Gen2)
+* Azure Data Factory (Dynamic Pipeline)
+* Azure Databricks
+* Azure Access Connector
+* PySpark
+* Microsoft Entra ID
